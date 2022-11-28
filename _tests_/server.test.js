@@ -11,4 +11,7 @@ describe('APIServer', () => {
     expect(response.text).toBeTruthy();
     expect(response.text).toEqual('hello world')
   });
+  it('handles invalid requests', async () => {
+    const response = await request.
+  })
 });
