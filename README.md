@@ -6,13 +6,13 @@
 
 ### Problem Domain
 
-Concise Description of why this app exists
+Create a web server using CI and CD and get used to the general process of building and deploying servers, and prepping your work for grading
 
 ### Links and Resources
 
-- [ci/cd](http://xyz.com) (GitHub Actions)
-- [prod development](http://xyz.com)
-- [dev development](http://xyz.com)
+- [ci/cd](https://github.com/EDStaehle/server-deployment-practice/actions/runs/3569908073) (GitHub Actions)
+- [prod development](https://four01d49-server-prod.onrender.com/)
+- [dev development](https://four01d49-server-dev.onrender.com/)
 
 ### Setup
 
@@ -47,4 +47,4 @@ i.e.
 
 #### UML
 
-![UML] (./lab-01-uml.png)
+[UML](./assets/lab-01.png)
